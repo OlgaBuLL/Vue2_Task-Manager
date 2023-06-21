@@ -27,6 +27,7 @@ Some features were implemented:
 
 ◾  Add new Task    
 ◾  Edit task's data    
+◾  One click finishes Task    
 ◾  Delete Task      
 ◾  Animation on task deleting    
 ◾  All your tasks will be stored in Local Storage so you won't lose them after reloading the page    
